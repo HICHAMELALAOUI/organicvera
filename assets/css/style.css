@@ -7485,3 +7485,13 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     padding-bottom: 60px; }
   .login-register-area.pt-110 {
     padding-top: 60px; } }
+
+@media (max-width: 992px) {
+
+    .test{
+    height: 100%;
+    width: 100%;
+    z-index: 99999999;
+    position: absolute;
+    }
+}
