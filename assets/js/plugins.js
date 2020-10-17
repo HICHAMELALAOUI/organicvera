@@ -39,6 +39,26 @@
             	document.getElementById("description").innerHTML = 'description';
             	document.getElementById("price").innerHTML = '315,00 Dh.';
             }
+            if(Object.values(a)==5){
+            	document.getElementById("title").innerHTML = 'Forever Bright Toothgel';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '114,00 Dh.';
+            }
+            if(Object.values(a)==6){
+            	document.getElementById("title").innerHTML = 'Forever Instant Hand Cleanser';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '100,00 Dh.';
+            }
+            if(Object.values(a)==7){
+            	document.getElementById("title").innerHTML = 'Forever Lips';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '52,00 Dh.';
+            }
+            if(Object.values(a)==8){
+            	document.getElementById("title").innerHTML = 'Aloe beryy Nectar';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '389,00 Dh.';
+            }
             if(Object.values(a)==9){
             	document.getElementById("title").innerHTML = 'Pack';
             	document.getElementById("description").innerHTML = 'description';
@@ -78,6 +98,11 @@
             	document.getElementById("title").innerHTML = 'Forever Gelée Royale';
             	document.getElementById("description").innerHTML = 'description';
             	document.getElementById("price").innerHTML = '493,00 Dh.';
+            }
+             if(Object.values(a)==16){
+            	document.getElementById("title").innerHTML = 'Forever Ail & Thym';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '271,00 Dh.';
             }
             if(Object.values(a)==18){
             	document.getElementById("title").innerHTML = 'Forever Bee Pollen';
