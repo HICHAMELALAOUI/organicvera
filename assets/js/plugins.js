@@ -22,80 +22,242 @@
             if(Object.values(a)==1){
             	document.getElementById("title").innerHTML = 'Forever Lite Ultra';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '315,00 Dh.';
             }
             if(Object.values(a)==2){
             	document.getElementById("title").innerHTML = 'forever Therm';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '447,00 Dh.';
             }
             if(Object.values(a)==3){
             	document.getElementById("title").innerHTML = 'Forever Lean';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '471,00 Dh.';
             }
             if(Object.values(a)==4){
             	document.getElementById("title").innerHTML = 'Forever Lite Ultra';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '315,00 Dh.';
             }
             if(Object.values(a)==9){
             	document.getElementById("title").innerHTML = 'Pack';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '1524,00 Dh.';
             }
             if(Object.values(a)==10){
             	document.getElementById("title").innerHTML = 'Pack';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '1489,00 Dh.';
             }
             if(Object.values(a)==11){
             	document.getElementById("title").innerHTML = 'Pack';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '1501,00 Dh.';
             }
             if(Object.values(a)==12){
             	document.getElementById("title").innerHTML = 'Aloe Heat Lotion';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '222,00 Dh.';
             }
             if(Object.values(a)==13){
             	document.getElementById("title").innerHTML = 'Shampoing Aloe Jojoba';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '262,00 Dh.';
             }
             if(Object.values(a)==14){
             	document.getElementById("title").innerHTML = 'Conditioning Aloe Jojoba';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '243,00 Dh.';
             }
             if(Object.values(a)==15){
             	document.getElementById("title").innerHTML = 'Aloe Lotion';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '222,00 Dh.';
             }
             if(Object.values(a)==17){
             	document.getElementById("title").innerHTML = 'Forever Gelée Royale';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '493,00 Dh.';
             }
             if(Object.values(a)==18){
             	document.getElementById("title").innerHTML = 'Forever Bee Pollen';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '228,00 Dh.';
             }
             if(Object.values(a)==19){
             	document.getElementById("title").innerHTML = 'Aloe vera gel';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '389,00 Dh.';
             }
             if(Object.values(a)==20){
             	document.getElementById("title").innerHTML = 'Forever Freedom';
             	document.getElementById("description").innerHTML = 'description';
-            	document.getElementById("price").innerHTML = 'price';
+            	document.getElementById("price").innerHTML = '531,00 Dh.';
+            }
+            if(Object.values(a)==21){
+            	document.getElementById("title").innerHTML = 'Aloe first';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '295,00 Dh.';
+            }
+            if(Object.values(a)==22){
+            	document.getElementById("title").innerHTML = "Forever Absorbent -c";
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '263,00 Dh.';
+            }
+            if(Object.values(a)==23){
+            	document.getElementById("title").innerHTML = "Infusion Fleur d'aloes";
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '263,00 Dh.';
+            }
+            if(Object.values(a)==24){
+            	document.getElementById("title").innerHTML = 'Forever Propolis';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '476,00 Dh.';
+            }
+            if(Object.values(a)==25){
+            	document.getElementById("title").innerHTML = "Forever Coeur d'aloés";
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '423,00 Dh.';
+            }
+            if(Object.values(a)==26){
+            	document.getElementById("title").innerHTML = 'Forever Calcium';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '361,00 Dh.';
+            }
+            if(Object.values(a)==27){
+            	document.getElementById("title").innerHTML = 'stick Deodorant Aloé ';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '107,00 Dh.';
+            }
+            if(Object.values(a)==28){
+            	document.getElementById("title").innerHTML = 'Crème visage aleo';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '222,00 Dh.';
+            }
+            if(Object.values(a)==29){
+            	document.getElementById("title").innerHTML = 'Aloe propolis Crème';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '295,00 Dh.';
             }
             
-            document.getElementById("myImage").src = 'assets/img/product/'+Object.values(a)+'.jpg';
+            if(Object.values(a)==30){
+            	document.getElementById("title").innerHTML = 'Fields of green';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '180,00 Dh.';
+            }
+            
+            if(Object.values(a)==31){
+            	document.getElementById("title").innerHTML = 'Aloe msm gel';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '345,00 Dh.';
+            }
+            
+            if(Object.values(a)==32){
+            	document.getElementById("title").innerHTML = 'gelée Aloe';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '222,00 Dh.';
+            }
+            
+            if(Object.values(a)==33){
+            	document.getElementById("title").innerHTML = 'Forever Licium plus';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = ',00 Dh.';
+            }
+            
+            if(Object.values(a)==34){
+            	document.getElementById("title").innerHTML = 'R3 Factor ';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '493,00 Dh.';
+            }
+            
+            if(Object.values(a)==35){
+            	document.getElementById("title").innerHTML = 'Masque bio cellulose';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '635,00 Dh.';
+            }
+            
+            if(Object.values(a)==36){
+            	document.getElementById("title").innerHTML = 'Forever Freedom';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = ',00 Dh.';
+            }
+            
+            if(Object.values(a)==37){
+            	document.getElementById("title").innerHTML = 'Forever epiblanc';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '231,00 Dh.';
+            }
+            
+            if(Object.values(a)==38){
+            	document.getElementById("title").innerHTML = "Savon corps et visage à l'avocat";
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '73,00 Dh.';
+            }
+            
+            if(Object.values(a)==39){
+            	document.getElementById("title").innerHTML = 'Forever kids';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '208,00 Dh.';
+            }
+            
+            if(Object.values(a)==40){
+            	document.getElementById("title").innerHTML = 'Vitolize homme';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '406,00 Dh.';
+            }
+            if(Object.values(a)==41){
+            	document.getElementById("title").innerHTML = 'Forever Artic Sea';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '457,00 Dh.';
+            }
+            if(Object.values(a)==42){
+            	document.getElementById("title").innerHTML = 'Forever Daily';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '252,00 Dh.';
+            }
+            if(Object.values(a)==43){
+            	document.getElementById("title").innerHTML = 'Forever Fiber';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '290,00 Dh.';
+            }
+            if(Object.values(a)==44){
+            	document.getElementById("title").innerHTML = 'Argi +';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '156,00 Dh.';
+            }
+            if(Object.values(a)==45){
+            	document.getElementById("title").innerHTML = 'Aloe Hand Soeap';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '197,00 Dh.';
+            }
+            if(Object.values(a)==46){
+            	document.getElementById("title").innerHTML = 'Forever Travel kit';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '266,00 Dh.';
+            }
+            if(Object.values(a)==47){
+            	document.getElementById("title").innerHTML = 'Forever Move';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '752,00 Dh.';
+            }
+            if(Object.values(a)==48){
+            	document.getElementById("title").innerHTML = 'Infinite by forever';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '2100,00 Dh.';
+            }
+            if(Object.values(a)==49){
+            	document.getElementById("title").innerHTML = 'Daily Skincare';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '1028,00 Dh.';
+            }
+            if(Object.values(a)==50){
+            	document.getElementById("title").innerHTML = 'Forever active pro-B';
+            	document.getElementById("description").innerHTML = 'description';
+            	document.getElementById("price").innerHTML = '442,00 Dh.';
+            }
+            
+            
+             document.getElementById("myImage").src = 'assets/img/product/'+Object.values(a)+'.jpg';
              document.getElementById("myImage2").href = 'assets/img/product/'+Object.values(a)+'.jpg';
         }
 
